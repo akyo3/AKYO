@@ -3,5 +3,5 @@
   "description": "一歩一歩確実にをスローガンとし、カルダノネットワークの安定化に貢献します。そして委任者様の報酬を増やしていきます。Step by step, with certainty.",
   "ticker": "AKYO",
   "homepage": "https://akyo.org/",
-  "extended": "https://wyam-stakepool.com/wyam-extended.json"
+  "extended": "https://raw.githubusercontent.com/akyo3/AKYO/main/meta/AKYO-Extended.json"
 }
