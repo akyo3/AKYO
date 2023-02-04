@@ -3,6 +3,6 @@
   "ticker": "AKYO",
   "discordId": "815132982817062922",
   "pool-list": "true",
-  "poolMetaData": "https://wyam-stakepool.com/poolMetaData.json",
-  "validation": "https://wyam-stakepool.com/sjg-validation.json"
+  "poolMetaData": "https://raw.githubusercontent.com/akyo3/AKYO/main/meta/poolMetaData.json",
+  "validation": "https://raw.githubusercontent.com/akyo3/AKYO/main/meta/sjg-validation.json"
 }
