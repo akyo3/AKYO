@@ -4,14 +4,19 @@
         "url_png_logo": "",
         "location": "Tokyo, Japan",
         "social": {
-            "twitter_handle": "AKYO_POOL",
-            "discord_handle": "AKYO🥁#9925",
-            "github_handle": "akyo3",
-            "ada_handle": "$akyo"
+            "twitter_handle": "AKYO_POOL"
         },
         "about": {
             "me": "日本人オペレータが運営するAKYO-POOLです。私はシステムエンジニアとして約4年の経験があります。その経験をカルダノのプール運用に活かしていきたいと考えております。AKYO-POOL is operated by a Japanese operator. I have about four years' experience as a systems engineer. I would like to apply this experience to the operation of the pool in Cardano.",
             "server": "BP : 10 vCPU, 32GB RAM, 1TB SSD. Relay1: 6 vCPU, 16GB RAM, 400GB SSD. Relay2: 6 vCPU, 18GB RAM, 160GB SSD"
         }
-    }
+    },
+    "my-pool-ids": {
+        "0": "940d6893606290dc6b7705a8aa56a857793a8ae0a3906d4e2afd2119",
+        "1": "pool1jsxk3ymqv2gdc6mhqk52544g2aun4zhq5wgx6n32l5s3jlne70n"
+    },
+    "when-satured-then-recommend": {
+        "0": ""
+    },
+    "Cexplorer": "8d62bfda24cc2dbe39"
 }
