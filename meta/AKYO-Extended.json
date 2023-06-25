@@ -10,7 +10,7 @@
             "ada_handle": "$akyo"
         },
         "about": {
-            "me": "日本人オペレータが運営するAKYO-POOLです。私はシステムエンジニアとして約4年の経験があります。その経験をカルダノのプール運用に活かしていきたいと考えております。AKYO-POOL is operated by a Japanese operator. I have about four years' experience as a systems engineer. I would like to apply this experience to the operation of the pool in Cardano.",
+            "me": "このプールは、日本人オペレーターである私が一人で運営しています。私はシステムエンジニアとして約4年の経験があります。その経験を活かしてカルダノプールを運営しています。This pool is operated by myself, a Japanese operator, on my own. I have about 4 years of experience as a system engineer. I am using that experience to operate Cardano Pool.",
             "server": "Block Producer Server / RAM : 32,768 MiB, CPU : 10, Disk : 1,024 GiB. Relay Node Server 1 / RAM : 28,560 MiB, CPU : 8, Disk : 744.8 GiB. Relay Node Server 2 / RAM : 24,576 MiB, CPU : 12, Disk : 960 GiB."
         }
     }
