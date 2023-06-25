@@ -11,7 +11,7 @@
         },
         "about": {
             "me": "日本人オペレータが運営するAKYO-POOLです。私はシステムエンジニアとして約4年の経験があります。その経験をカルダノのプール運用に活かしていきたいと考えております。AKYO-POOL is operated by a Japanese operator. I have about four years' experience as a systems engineer. I would like to apply this experience to the operation of the pool in Cardano.",
-            "server": "BP : 10 vCPU, 32GB RAM, 1TB SSD. Relay1: 6 vCPU, 16GB RAM, 400GB SSD. Relay2: 6 vCPU, 18GB RAM, 160GB SSD"
+            "server": "Block Producer Server / RAM : 32,768 MiB, CPU : 10, Disk : 1,024 GiB. Relay Node Server 1 / RAM : 28,560 MiB, CPU : 8, Disk : 744.8 GiB. Relay Node Server 2 / RAM : 24,576 MiB, CPU : 12, Disk : 960 GiB."
         }
     }
 }
