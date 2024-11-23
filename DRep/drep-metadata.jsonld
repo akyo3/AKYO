@@ -2,14 +2,13 @@
   "@context": {
     "@language": "en-us",
     "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP108": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0108/README.md#",
     "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
     "hashAlgorithm": "CIP100:hashAlgorithm",
     "body": {
       "@id": "CIP119:body",
       "@context": {
         "bio": "CIP119:bio",
-        "dRepName": "CIP119:dRepName",
-        "email": "CIP119:email",
         "givenName": "CIP119:givenName",
         "motivations": "CIP119:motivations",
         "objectives": "CIP119:objectives",
@@ -76,13 +75,7 @@
   },
   "body": {
     "bio": {
-      "@value": "Empty"
-    },
-    "dRepName": {
-      "@value": "AKYO"
-    },
-    "email": {
-      "@value": "Empty"
+      "@value": "Intersect Japan Hubメンバー | フリーランスエンジニア | ミスリル署名者 | 2021年3月からCardanoステークプールオペレーター | 元製靴業"
     },
     "givenName": {
       "@value": "AKYO"
@@ -106,7 +99,7 @@
     },
     "references": [
       {
-        "@type": "Other",
+        "@type": "Link",
         "label": {
           "@value": "X"
         },
@@ -115,7 +108,7 @@
         }
       },
       {
-        "@type": "Other",
+        "@type": "Link",
         "label": {
           "@value": "Website / Pool"
         },
@@ -124,7 +117,7 @@
         }
       },
       {
-        "@type": "Other",
+        "@type": "Link",
         "label": {
           "@value": "X / Pool"
         },
