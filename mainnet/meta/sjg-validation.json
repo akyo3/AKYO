@@ -1,0 +1,8 @@
+{
+  "name": "akyo3",
+  "ticker": "AKYO",
+  "discordId": "815132982817062922",
+  "pool-list": "true",
+  "poolMetaData": "https://akyo3.github.io/AKYO/mainnet/meta/pool-metadata.json",
+  "validation": "https://akyo3.github.io/AKYO/mainnet/meta/sjg-validation.json"
+}
