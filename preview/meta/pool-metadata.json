@@ -1,0 +1,7 @@
+{
+    "name": "AKYO [Preview]",
+    "description": "This is the AKYO pool running in Preview",
+    "ticker": "AKYO",
+    "homepage": "https://akyo.org",
+    "extended": "https://akyo3.github.io/AKYO/preview/meta/extended-pool-metadata.json"
+}

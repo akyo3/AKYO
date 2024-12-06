@@ -1,0 +1,17 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://akyo3.github.io/AKYO/preview/img/AKYO-64x64.png",
+        "url_png_logo": "",
+        "location": "Tokyo, Japan",
+        "social": {
+            "twitter_handle": "AKYO_POOL",
+            "discord_handle": "akyo3",
+            "github_handle": "akyo3",
+            "ada_handle": "$akyo"
+        },
+        "about": {
+            "me": "Hi, I'm Kyosuke! This is the AKYO pool running in Preview",
+            "server": "Preview"
+        }
+    }
+}
