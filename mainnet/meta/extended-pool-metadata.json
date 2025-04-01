@@ -4,13 +4,13 @@
         "url_png_logo": "",
         "location": "Tokyo, Japan",
         "social": {
-            "twitter_handle": "AKYO_POOL",
+            "twitter_handle": "KyosukeTakatuki",
             "discord_handle": "akyo3",
             "github_handle": "akyo3",
             "ada_handle": "$akyo"
         },
         "about": {
-            "me": "このプールは、日本人オペレーターである私が一人で運営しています。私はシステムエンジニアとして約4年の経験があります。その経験を活かしてカルダノプールを運営しています。This pool is operated by myself, a Japanese operator, on my own. I have about 4 years of experience as a system engineer. I am using that experience to operate Cardano Pool.",
+            "me": "このステークプールは、私一人で運営しています。システムエンジニアとして約7年の実務経験があり、その知識と技術を活かして、プールを安定的かつ丁寧に運用しています。皆さまに安心して委任していただけるよう、責任を持って取り組んでいます。\nI run this stake pool on my own. With around seven years of hands-on experience as a systems engineer, I use my technical skills and knowledge to ensure the pool operates smoothly and reliably. I'm fully committed to maintaining a trustworthy environment where delegators can feel confident staking with me.",
             "server": "Block Producer Server / RAM : 32 GiB, vCPU : 4, Disk : 1,024 GiB. Relay Node Server 1 / RAM : 32 GiB, vCPU : 4, Disk : 1,024 GiB. Relay Node Server 2 / RAM : 32 GiB, vCPU : 4, Disk : 1,024 GiB."
         }
     }

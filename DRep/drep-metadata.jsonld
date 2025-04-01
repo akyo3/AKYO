@@ -88,11 +88,6 @@
         },
         {
           "@type": "Link",
-          "label": "Pool's X",
-          "uri": "https://x.com/AKYO_POOL"
-        },
-        {
-          "@type": "Link",
           "label": "Pool Website",
           "uri": "https://akyo.org"
         }
