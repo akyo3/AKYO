@@ -1,6 +1,6 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://akyo3.github.io/AKYO/preview/img/AKYO-64x64.png",
+        "url_png_icon_64x64": "https://akyo3.github.io/AKYO/sancho/img/AKYO-64x64.png",
         "url_png_logo": "",
         "location": "Tokyo, Japan",
         "social": {
@@ -10,8 +10,8 @@
             "ada_handle": "$akyo"
         },
         "about": {
-            "me": "Hi, I'm Kyosuke! I run the AKYO pool on Preview",
-            "server": "Preview"
+            "me": "Hi, I'm Kyosuke! I run the AKYO pool on Sancho",
+            "server": "Sancho"
         }
     }
 }
