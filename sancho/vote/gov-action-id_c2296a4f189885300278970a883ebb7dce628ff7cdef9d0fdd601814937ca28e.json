@@ -1,0 +1,57 @@
+{
+    "@context": {
+      "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+      "hashAlgorithm": "CIP100:hashAlgorithm",
+      "body": {
+        "@id": "CIP100:body",
+        "@context": {
+          "references": {
+            "@id": "CIP100:references",
+            "@container": "@set",
+            "@context": {
+              "governanceMetadata": "CIP100:GovernanceMetadataReference",
+              "other": "CIP100:OtherReference",
+              "label": "CIP100:reference-label",
+              "uri": "CIP100:reference-uri",
+              "referenceHash": {
+                "@id": "CIP100:referenceHash",
+                "@context": {
+                  "hashDigest": "CIP100:hashDigest",
+                  "hashAlgorithm": "CIP100:hashAlgorithm"
+                }
+              }
+            }
+          },
+          "comment": "CIP100:comment",
+          "externalUpdates": {
+            "@id": "CIP100:externalUpdates",
+            "@context": {
+              "title": "CIP100:update-title",
+              "uri": "CIP100:update-uri"
+            }
+          }
+        }
+      },
+      "authors": {
+        "@id": "CIP100:authors",
+        "@container": "@set",
+        "@context": {
+          "did": "@id",
+          "name": "http://xmlns.com/foaf/0.1/name",
+          "witness": {
+            "@id": "CIP100:witness",
+            "@context": {
+              "witnessAlgorithm": "CIP100:witnessAlgorithm",
+              "publicKey": "CIP100:publicKey",
+              "signature": "CIP100:signature"
+            }
+          }
+        }
+      }
+    },
+    "hashAlgorithm": "blake2b-256",
+    "authors": [],
+    "body": {
+      "comment": "この投票は、私がSanchoNetでSPOとして初めて「Yes（賛成）」票を投じることができたお祝いです。ありがとうございます！\n\nThis vote is a celebration of being able to cast my first \"Yes\" vote as an SPO on SanchoNet. Thank you!"
+    }
+  }
