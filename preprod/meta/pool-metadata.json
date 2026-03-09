@@ -1,0 +1,7 @@
+{
+    "name": "AKYO [Preprod]",
+    "description": "AKYO pool is also live on the Preprod",
+    "ticker": "AKYO",
+    "homepage": "https://akyo.org",
+    "extended": "https://akyo3.github.io/AKYO/preprod/meta/extended-pool-metadata.json"
+}
