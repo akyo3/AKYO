@@ -54,16 +54,16 @@
   },
   "hashAlgorithm": "blake2b-256",
   "body": {
-    "summary": "This governance action is constitutional.",
-    "rationaleStatement": "SanchoNet",
+    "summary": "abstain",
+    "rationaleStatement": "Voting practice-test on SanchoNet",
     "precedentDiscussion": "None",
     "counterargumentDiscussion": "None",
-    "conclusion": "",
+    "conclusion": "abstain",
     "internalVote": {
-      "constitutional": 7,
+      "constitutional": 0,
       "unconstitutional": 0,
-      "abstain": 0,
-      "didNotVote": 0
+      "abstain": 6,
+      "didNotVote": 1
     },
     "references": []
   },
@@ -73,7 +73,7 @@
       "witness": {
         "witnessAlgorithm": "ed25519",
         "publicKey": "d41e908118faf1558d6e95d29ff9299668a21a4621bf3af2f7985a0e9d83b780",
-        "signature": "14724dee787d805c6d4c8380632e1613bda67e7fe42ad66eac3bee36d239b6533a261a455838902bc981861d9fd12f30092720b028be59079cc8eb96732a0a07"
+        "signature": "1a55a8d1b50ce091ee612508e08f6b9080cd77bb49607008e95d068fd588e442e3ffe985592932d0991d998965f09656503adbc4e46f0da6d40209d6691e4b0b"
       }
     }
   ]
