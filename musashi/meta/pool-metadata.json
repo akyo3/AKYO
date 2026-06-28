@@ -1,0 +1,7 @@
+{
+    "name": "AKYO [Musashi]",
+    "description": "AKYO pool is also live on the Musashi testnet",
+    "ticker": "AKYO",
+    "homepage": "https://akyo.org",
+    "extended": "https://akyo3.github.io/AKYO/musashi/meta/extended-pool-metadata.json"
+}
