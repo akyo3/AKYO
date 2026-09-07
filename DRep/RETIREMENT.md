@@ -8,12 +8,31 @@
 
 Cardanoにオンチェーンガバナンスが導入され、DRep登録が可能になった2024年9月2日に登録して以来、さまざまなガバナンス提案を読み、自分なりに考え、判断し、投票を続けてきました。
 
-DRepとして投票対象となった提案のうち、期限に間に合わなかった2件を除き、すべての提案に投票してきました。また、どのような考えで投票したのかを委任者の皆さまにも確認していただけるよう、ほとんどの提案でRationale（投票判断の根拠）を日本語と英語で公開してきました。
+DRepとして投票可能だった151件のガバナンス提案のうち149件に投票してきました。期限までに投票できなかった提案は2件です。また、どのような考えで投票したのかを委任者の皆さまにも確認していただけるよう、149件の投票のうち145件でRationale（投票判断の根拠）を日本語と英語で公開してきました。
+
+全155件のガバナンス提案のうち、Bootstrap Phase中でDRepに投票権がなかった3件と、Invalidatedとなり投票できなかった1件を除く151件を、DRepとして投票可能だった提案として集計しています。
 
 - DRep登録：2024年9月2日
 - リタイア：Epoch 656開始時点（2026年9月17日 06:44:51 JST）
 - 投票数：149（2026年9月6日時点）
 - 投票記録：[AKYO DRep 投票根拠一覧](rationale/README.md)
+
+投票可能だった151件のうち、期限までに投票できなかった2件は以下のとおりです。
+
+- Cardano dOSPO and OMF Program
+- Scalus: Cardano’s Application Platform for Building, Launching, and Scaling
+
+投票可能な提案の集計から除外した4件は以下のとおりです。
+
+- DRepに投票権がなかったBootstrap Phase中のガバナンス提案：3件
+  - Plutus V3 Cost Model Parameter Changes Prior to Chang#2：2件
+  - Hard Fork to Protocol Version 10 ("Plomin" Hard Fork)：1件
+- Invalidatedとなり投票できなかったガバナンス提案：1件
+  - Reduce minimum Constitutional Committee size (committeeMinSize) from 7 to 5
+
+この集計に基づく投票率は98.68%（149 / 151）です。
+
+また、Rationaleを公開していない4件はいずれも活動初期の投票です。それ以降は、投票判断の根拠を示すことが重要だと考え、すべての投票でRationaleを公開してきました。149件の投票のうち145件でRationaleを公開しており、公開率は97.32%（145 / 149）です。
 
 ### リタイアを決めた理由
 
@@ -47,12 +66,31 @@ After serving as a DRep for approximately two years, I will retire at the beginn
 
 I registered as a DRep on September 2, 2024, when DRep registration became available following the introduction of on-chain governance to Cardano. Since then, I have continued to read governance proposals, consider them carefully, make my own judgments, and vote.
 
-Of the proposals on which I was eligible to vote as a DRep, I voted on every one except two whose deadlines I was unable to meet. I also published a Rationale for almost every vote in both Japanese and English so that my delegators could understand how and why I made each decision.
+Of the 151 governance actions on which I was eligible to vote as a DRep, I voted on 149. I was unable to vote on two before their deadlines. I also published a Rationale in both Japanese and English for 145 of my 149 votes so that my delegators could understand the basis for my voting decisions.
+
+Of the 155 governance actions in total, I count 151 as actions on which I was eligible to vote as a DRep, excluding three governance actions during the Bootstrap Phase for which DReps did not have voting rights and one governance action that was invalidated and therefore could not be voted on.
 
 - DRep registration: September 2, 2024
 - Retirement: Beginning of Epoch 656 (September 16, 2026 at 21:44:51 UTC / September 17, 2026 at 06:44:51 JST)
 - Votes cast: 149 (as of September 6, 2026)
 - Voting record: [AKYO DRep Voting Rationales](rationale/README.md)
+
+Of the 151 governance actions on which I was eligible to vote, the two I was unable to vote on before their deadlines were:
+
+- Cardano dOSPO and OMF Program
+- Scalus: Cardano’s Application Platform for Building, Launching, and Scaling
+
+The following four governance actions are excluded from the count of actions on which I was eligible to vote:
+
+- Three governance actions during the Bootstrap Phase for which DReps did not have voting rights:
+  - Plutus V3 Cost Model Parameter Changes Prior to Chang#2: 2
+  - Hard Fork to Protocol Version 10 ("Plomin" Hard Fork): 1
+- One governance action that was invalidated and therefore could not be voted on:
+  - Reduce minimum Constitutional Committee size (committeeMinSize) from 7 to 5
+
+Based on this count, my voting participation rate was 98.68% (149 / 151).
+
+The four votes for which I did not publish a Rationale were all cast early in my time as a DRep. After that, I decided that it was important to explain the basis for my voting decisions and published a Rationale for every vote thereafter. I published Rationales for 145 of my 149 votes, a rate of 97.32% (145 / 149).
 
 ### Why I Am Retiring
 
