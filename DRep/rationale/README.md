@@ -2,9 +2,9 @@
 
 AKYO DRepがこれまでに行った投票と、その判断根拠一覧です。
 
-> AKYO DRepは、Epoch 656の開始時点（2026年9月17日 06:44:51 JST）でリタイアします。詳細は[DRepリタイアのお知らせ](../RETIREMENT.md)をご覧ください。
+> AKYO DRepは、Epoch 656（2026年9月19日 16時頃 JST）にリタイアします。詳細は[DRepリタイアのお知らせ](../RETIREMENT.md)をご覧ください。
 
-- 投票数: 149（Yes 106 / No 21 / Abstain 22）
+- 投票数: 152（Yes 107 / No 22 / Abstain 23）
 
 > 投票日時、提案名、種別、投票内容はAdaStatから取得した履歴をもとにしています。各リンク先へ、投票時に公開した根拠文を記録します。
 
@@ -159,3 +159,6 @@ AKYO DRepがこれまでに行った投票と、その判断根拠一覧です�
 | 147 | 2026-08-02 | Update Constitutional Committee 2026 | New Committee | Yes | [詳細](votes/2026-08-02-update-constitutional-committee-2026.md) |
 | 148 | 2026-09-06 | Governance Incentives Framework 2026 | Treasury Withdrawals | No | [詳細](votes/2026-09-06-governance-incentives-framework-2026.md) |
 | 149 | 2026-09-06 | Reimburse Ikigai Info Governance Action Deposit. | Treasury Withdrawals | No | [詳細](votes/2026-09-06-reimburse-ikigai-info-governance-action-deposit.md) |
+| 150 | 2026-09-19 | Should stakePoolTargetNum (k) be raised from 500 to 1000? (SPO poll) | Info Action | Abstain | [詳細](votes/2026-09-19-should-stakepooltargetnum-k-be-raised-from-500-to-1000-spo-poll.md) |
+| 151 | 2026-09-19 | Reduce minPoolCost to 75 ada | Parameter Change | Yes | [詳細](votes/2026-09-19-reduce-minpoolcost-to-75-ada.md) |
+| 152 | 2026-09-19 | Withdraw 11,787,063 ada for the OpenZeppelin Stack administered by Intersect | Treasury Withdrawals | No | [詳細](votes/2026-09-19-withdraw-11-787-063-ada-for-the-openzeppelin-stack-administered-by-inter.md) |
